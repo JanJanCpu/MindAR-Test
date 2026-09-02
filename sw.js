@@ -5,7 +5,7 @@ const FILES_TO_CACHE = [
   "./",
   "./index.html",
   "./targets.mind",
-  "./model.glb",
+  "./test.glb",
   "https://aframe.io/releases/1.3.0/aframe.min.js",
   "https://cdn.jsdelivr.net/npm/mind-ar@1.2.2/dist/mindar-image-aframe.prod.js",
 ];
